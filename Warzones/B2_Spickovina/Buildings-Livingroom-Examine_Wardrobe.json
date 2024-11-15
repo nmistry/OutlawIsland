@@ -1,0 +1,136 @@
+{
+	"Items": [
+		{
+			"Rarity": "Common",
+			"Ids": "FlareCartridge"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Cal_22"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Cal_30-06"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "12_Gauge_Buckshot"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Cal_9mm"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Cal_45"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Weapon_Block21"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Magazine_Block21"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Weapon_CarbonHunter"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Magazine_CarbonHunter"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Weapon_DT11B_Sawed_Off"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Weapon_FlareGun"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Weapon_Hunter85_V2"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Magazine_Hunter85_V2"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "WeaponScope_HuntingScope"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Weapon_Krueger"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Magazine_Krueger"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Magazine_M9"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Weapon_MP5"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Magazine_MP5"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "MP5_Rail_Short"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "WeaponSights_RedDot_CA401B"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Smoke_Grenade_Green"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Smoke_Grenade_Red"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Smoke_Grenade_Violet"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Smoke_Grenade"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Smoke_Grenade_Yellow"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Weapon_M9"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Weapon_UMP45"
+		},
+		{
+			"Rarity": "Common",
+			"Ids": "Magazine_UMP45"
+		}	
+	],
+	"Probability": 50,
+	"QuantityMin": 1,
+	"QuantityMax": 2,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 0,
+	"RandomDamage": 20,
+	"InitialUsage": 0,
+	"RandomUsage": 20,
+	"PostSpawnActions": [
+		"SetClothesDirtiness_ResidentialClothes"
+	]
+}

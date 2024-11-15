@@ -1,0 +1,48 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Rare",
+			"Ids": [
+				"ItemLootTreeNodes.Bathroom.Items.1H_Scalpel",
+				"ItemLootTreeNodes.Bathroom.Items.Disposable_Mask",
+				"ItemLootTreeNodes.Bathroom.Items.Fabric",
+				"ItemLootTreeNodes.Bathroom.Items.FirstAid.Charcoal",
+				"ItemLootTreeNodes.Bathroom.Items.FirstAid.Vitamins",
+				"ItemLootTreeNodes.Bathroom.Items.Razor_Blade",
+				"ItemLootTreeNodes.Bathroom.Items.Rubber_band",
+				"ItemLootTreeNodes.Bathroom.Items.Scissors.Scissors_Plastic",
+				"ItemLootTreeNodes.Bathroom.Items.Soap"
+			]
+		}
+	],
+	"Items": [
+		{
+			"Rarity": "Common",
+			"Ids": "rags"
+		},
+		{
+			"Rarity": "Uncommon",
+			"Id": "Emergency_bandage_Big"
+		},
+		{
+			"Rarity": "Rare",
+			"Id": "Tourniquet"
+		},
+		{
+			"Rarity": "Very Rare",
+			"Id": "Phoenix_Tears_Small"
+		}
+	],
+	"Probability": 50,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 0,
+	"RandomDamage": 50,
+	"InitialUsage": 0,
+	"RandomUsage": 50,
+	"PostSpawnActions": [
+		"SetClothesDirtiness_ResidentialClothes"
+	]
+}
