@@ -387,7 +387,10 @@
       ],
       "A_0_Mechanic": [],
       "A_0_Trader": [
-        
+        {
+          "tradeable-code": "BoomBox_01",
+          "can-be-purchased": "false"
+        },        
         {
           "tradeable-code": "Larve",
           "base-purchase-price": "10",
@@ -838,7 +841,11 @@
         }
       ],
       "A_0_Saloon": [
-        
+        {
+          "tradeable-code": "Kicmovaca",
+          "can-be-purchased":"false"
+          
+        },
         {
           "tradeable-code": "Catfish_Fillet",
           "base-purchase-price": "100",
@@ -1637,7 +1644,10 @@
       ],
       "B_4_Mechanic": [],
       "B_4_Trader": [
-        
+        {
+          "tradeable-code": "BoomBox_01",
+          "can-be-purchased": "false"
+        },        
         {
           "tradeable-code": "Larve",
           "base-purchase-price": "10",
@@ -2088,7 +2098,11 @@
         }
       ],
       "B_4_Saloon": [
-        
+        {
+          "tradeable-code": "Kicmovaca",
+          "can-be-purchased": "false"
+          
+        },
         {
           "tradeable-code": "Catfish_Fillet",
           "base-purchase-price": "100",
@@ -11716,7 +11730,10 @@
         }
       ],
       "C_2_Trader": [
-        
+        {
+          "tradeable-code": "BoomBox_01",
+          "can-be-purchased": "false"
+        },       
         {
           "tradeable-code": "Screwdriver",
           "base-purchase-price": "-1",
@@ -12111,7 +12128,11 @@
         }
       ],
       "C_2_Saloon": [
-        
+        {
+          "tradeable-code": "Kicmovaca",
+          "can-be-purchased": "false"
+          
+        },        
         {
           "tradeable-code": "Agaricus_Augustus",
           "base-purchase-price": "75",
@@ -13606,7 +13627,10 @@
       ],
       "Z_3_Mechanic": [],
       "Z_3_Trader": [
-        
+        {
+          "tradeable-code": "BoomBox_01",
+          "can-be-purchased": "false"
+        },
         {
           "tradeable-code": "Larve",
           "base-purchase-price": "10",
@@ -14057,7 +14081,11 @@
         }
       ],
       "Z_3_Saloon": [
-        
+        {
+          "tradeable-code": "Kicmovaca",
+          "can-be-purchased": "false"
+          
+        },       
         {
           "tradeable-code": "Catfish_Fillet",
           "base-purchase-price": "100",
