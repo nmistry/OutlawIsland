@@ -19,6 +19,10 @@
     "traders": {
       "A_0_Armory": [
         {
+          "tradeable-code": "Weapon_Judge44",
+          "can-be-purchased": "false"
+        },
+        {
           "tradeable-code": "C4_CircuitBoard",
           "base-purchase-price": "11000",
           "base-sell-price": "2750",
@@ -1263,7 +1267,11 @@
         }
       ],
       "A_0_Barber": [],
-      "B_4_Armory": [
+      "B_4_Armory": [        
+        {
+        "tradeable-code": "Weapon_Judge44",
+        "can-be-purchased": "false"
+        },
         {
           "tradeable-code": "C4_CircuitBoard",
           "base-purchase-price": "11000",
@@ -7483,7 +7491,7 @@
           "base-purchase-price": "1800",
           "base-sell-price": "625",
           "delta-price": "-1.0",
-          "can-be-purchased": "default",
+          "can-be-purchased": "false",
           "required-famepoints": "60"
         },
         {
@@ -13229,6 +13237,10 @@
       ],
       "C_2_Barber": [],
       "Z_3_Armory": [
+        {
+          "tradeable-code": "Weapon_Judge44",
+          "can-be-purchased": "false"
+        },
         {
           "tradeable-code": "C4_CircuitBoard",
           "base-purchase-price": "11000",
