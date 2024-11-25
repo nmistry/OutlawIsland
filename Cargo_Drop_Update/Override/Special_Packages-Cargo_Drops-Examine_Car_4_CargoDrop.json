@@ -1,0 +1,12 @@
+{
+	"FixedItems": [
+		"Gasoline_Canister",
+		"Car_Repair_Kit",
+		"Car_Jack",
+		"Car_Battery"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}
