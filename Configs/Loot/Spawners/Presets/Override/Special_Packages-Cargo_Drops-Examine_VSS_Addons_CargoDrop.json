@@ -1,0 +1,18 @@
+{
+	"FixedItems": [
+		"Magazine_AS_Val",
+		"Magazine_AS_Val",
+		"Magazine_AS_Val",
+		"Cal_9x39mm_Ammobox",
+		"Cal_9x39mm_Ammobox",
+		"Cal_9x39mm_Ammobox",
+		"ScopeRail_AK47",
+		"WeaponScope_ACOG_01",
+		"WeaponFlashlight_AS_Val",
+		"Batteries"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}

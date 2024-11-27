@@ -1,1 +1,0 @@
-Empty file to create the directory in Git.
