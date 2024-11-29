@@ -55,6 +55,7 @@ Let’s stay mindful and respectful, knowing that we all invest time and heart i
 ## Prohibited Areas
 
 ```Building is allowed anywhere, provided the game allows it.
+
 ```
 
 ## PvE Zones
@@ -88,11 +89,13 @@ Raiding is defined as lockpicking, destruction, griefing, or entering another pl
 ## Mines
 
 ```- Mines may only be placed inside your flag zone.
+
 ```
 
 ## Vehicles
 
 ```Players/Squads that are found abusing vehicles in a way that harms the overall community will be contacted by a director at the director's discretion. Refusal to cooperate with the directors' decision will result in a 5 day temporary ban.
+
 ```
 
 ## Accusations / Cheating
