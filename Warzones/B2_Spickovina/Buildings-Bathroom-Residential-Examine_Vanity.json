@@ -17,10 +17,6 @@
 	],
 	"Items": [
 		{
-			"Rarity": "Common",
-			"Ids": "rags"
-		},
-		{
 			"Rarity": "Uncommon",
 			"Id": "Emergency_bandage_Big"
 		},

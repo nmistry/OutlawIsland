@@ -2,91 +2,91 @@
 	"Items": [
 		{
 			"Rarity": "Uncommon",
-			"Ids": "Improvised_Bulletproof_Armor"
+			"Id": "Improvised_Bulletproof_Armor"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Improvised_Bag_Small_01"
+			"Id": "Improvised_Bag_Small_01"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Improvised_Quiver_01"
+			"Id": "Improvised_Quiver_01"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Jeans_01_03"
+			"Id": "Jeans_01_03"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Jeans_01_02"
+			"Id": "Jeans_01_02"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Belt_Pistol_Holster"
+			"Id": "Belt_Pistol_Holster"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Knife_Sheath"
+			"Id": "Knife_Sheath"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Military_Helmet_01_02"
+			"Id": "Military_Helmet_01_02"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Military_Helmet_01_01"
+			"Id": "Military_Helmet_01_01"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Military_Helmet_01_05"
+			"Id": "Military_Helmet_01_05"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Military_Helmet_01_07"
+			"Id": "Military_Helmet_01_07"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Military_Shirt_02"
+			"Id": "Military_Shirt_02"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Military_Shirt_01"
+			"Id": "Military_Shirt_01"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Military_Shirt_05"
+			"Id": "Military_Shirt_05"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Military_Shirt_07"
+			"Id": "Military_Shirt_07"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Stabproof_Vest_01_09"
+			"Id": "Stabproof_Vest_01_09"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Shorts_Pants_01_01"
+			"Id": "Shorts_Pants_01_01"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "MilitaryPants_02"
+			"Id": "MilitaryPants_02"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "MilitaryPants_01"
+			"Id": "MilitaryPants_01"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Jeans_Jersey_Jacket_02"
+			"Id": "Jeans_Jersey_Jacket_02"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Jeans_Jersey_Jacket_01"
+			"Id": "Jeans_Jersey_Jacket_01"
 		},
 		{
 			"Rarity": "Common",
-			"Ids": "Waist_Bag_Small_02"
+			"Id": "Waist_Bag_Small_02"
 		}
 	],
 	"Probability": 50,
