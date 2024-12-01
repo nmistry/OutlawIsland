@@ -1,0 +1,29 @@
+{
+    "Zones": [
+     {
+      "Name": "A3_Quarry",
+      "TopLeft": "X=166056.3672 Y=-328997.3340",
+      "BottomRight": "X=122309.5117 Y=-376315.3613"
+     },
+     {
+      "Name": "B0_Hospital",
+      "TopLeft": "X=-600852.7930 Y=-100591.1328",
+      "BottomRight": "X=-664092.2949 Y=-196566.3770"
+     },
+     {
+      "Name": "B0_Scrapyard",
+      "TopLeft": "X=-852620.4102 Y=-160705.8594",
+      "BottomRight": "X=-885356.1523 Y=-211148.6621"
+     },
+     {
+      "Name": "B2_Airfield",
+      "TopLeft": "X=-223201.3672 Y=-19942.1680",
+      "BottomRight": "X=-291053.6328 Y=-58927.4609"
+     },
+     {
+      "Name": "B3_BootCamp",
+      "TopLeft": "X=266644.3750 Y=-22769.3457",
+      "BottomRight": "X=236438.2129 Y=-44940.3711"
+     }
+    ]
+   }
