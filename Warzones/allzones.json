@@ -1,19 +1,39 @@
 {
     "Zones": [
      {
-      "Name": "A3_Quarry",
+      "Name": "A1_Sardine",
+      "TopLeft": "X=-328997.3340 Y=-348341.1816",
+      "BottomRight": "X=-362030.6738 Y=-381374.5215"
+     },
+     {
+      "Name": "A2_CheeseFactory",
+      "TopLeft": "X=-95680.7715 Y=-330931.7187",
+      "BottomRight": "X=-133475.6738 Y=-366197.0410"
+     },
+     {
+      "Name": "A3_SouthQuary",
       "TopLeft": "X=166056.3672 Y=-328997.3340",
       "BottomRight": "X=122309.5117 Y=-376315.3613"
      },
      {
+      "Name": "B0_Brickyard",
+      "TopLeft": "X=-760811.5332 Y=-269180.2051",
+      "BottomRight": "X=-806343.9746 Y=-297303.1836"
+     },
+     {
       "Name": "B0_Hospital",
-      "TopLeft": "X=-600852.7930 Y=-100591.1328",
-      "BottomRight": "X=-664092.2949 Y=-196566.3770"
+      "TopLeft": "X=-619750.2441 Y=-123952.5488",
+      "BottomRight": "X=-639391.6895 Y=-156837.0898"
      },
      {
       "Name": "B0_Scrapyard",
-      "TopLeft": "X=-852620.4102 Y=-160705.8594",
+      "TopLeft": "X=-852322.8125 Y=-162193.8477",
       "BottomRight": "X=-885356.1523 Y=-211148.6621"
+     },
+     {
+      "Name": "B1_Factory",
+      "TopLeft": "X=-391344.0430 Y=11900.7813",
+      "BottomRight": "X=-427204.5605 Y=-22918.1445"
      },
      {
       "Name": "B2_Airfield",
@@ -24,6 +44,41 @@
       "Name": "B3_BootCamp",
       "TopLeft": "X=266644.3750 Y=-22769.3457",
       "BottomRight": "X=236438.2129 Y=-44940.3711"
+     },
+     {
+      "Name": "B3_NorthQuary",
+      "TopLeft": "X=155640.4492 Y=-266650.6250",
+      "BottomRight": "X=114274.3750 Y=-308314.2969"
+     },
+     {
+      "Name": "C1_Observatory",
+      "TopLeft": "X=-315977.4365 Y=216052.7734",
+      "BottomRight": "X=-341347.6367 Y=174240.3027"
+     },
+     {
+      "Name": "C2_Prison",
+      "TopLeft": "X=-47246.7529 Y=165089.1748",
+      "BottomRight": "X=-89282.4219 Y=139421.3770"
+     },
+     {
+      "Name": "C3_BridgeTown",
+      "TopLeft": "X=189864.1797 Y=251169.2969",
+      "BottomRight": "X=170594.7314 Y=220367.9395"
+     },
+     {
+      "Name": "C3_Town",
+      "TopLeft": "X=81836.2305 Y=88085.7813",
+      "BottomRight": "X=55201.2402 Y=60855.5957"
+     },
+     {
+      "Name": "C3_Ziggorgie",
+      "TopLeft": "X=191352.1680 Y=58623.6133",
+      "BottomRight": "X=140165.3711 Y=21275.1074"
+     },
+     {
+      "Name": "D3_Boatyard",
+      "TopLeft": "X=164865.9766 Y=-751139.6094",
+      "BottomRight": "X=134808.6133 Y=-775542.6172"
      }
     ]
    }
