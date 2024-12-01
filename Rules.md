@@ -4,7 +4,7 @@
 
 ## General
 
-```- Scum is early access - this means that bugs and glitches will happen. Unless there is a video showing what was lost and how it was lost, no items will be replaced. 
+```- Scum is early access - this means that bugs and glitches will happen. Unless there is a video showing what was lost and how it was lost, no items will be replaced.
 - The server is US based; keep all chat in English. This is necessary for us to monitor the server.
 - Player names must have a minimum of 3 English letters and not include links.
 - If asked to change your name by a Director, it must be done immediately.
