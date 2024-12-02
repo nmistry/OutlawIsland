@@ -155,7 +155,15 @@
 		"Car_Repair_Kit",
 		"Car_Jack",
 		"Car_Battery"
-
+## Special_Packages-Cargo_Drops-Examine_Chainsaw_CargoDrop
+	Added
+		"Weapon_SCAR_L",
+		"WeaponSights_RedDot_CA401B",
+		"WeaponSuppressor_MK18",
+		"Magazine_M16",
+		"Magazine_M16",
+		"Magazine_M16"
+		
 ## Added batteries to
 	Special_Packages-Cargo_Drops-Examine_ASVal_Addons_CargoDrop
 	Special_Packages-Cargo_Drops-Examine_NVG_CargoDrop
