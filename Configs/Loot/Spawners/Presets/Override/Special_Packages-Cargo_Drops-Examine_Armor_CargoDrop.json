@@ -1,7 +1,17 @@
 {
 	"FixedItems": [
 		"Military_Helmet_01_03",
-		"Armor_Tactical_Vest_01_03"
+		"Armor_Tactical_Vest_01_03",
+		"Weapon_MAC10",
+		"Magazine_MAC10",
+		"Magazine_MAC10",
+		"Magazine_MAC10",
+		"WeaponSights_RedDot_CA401B",
+		"WeaponSuppressor_MAC10",
+		"ImprovisedRail_Short",
+		"Cal_9mm_Ammobox",
+		"Cal_9mm_Ammobox",
+		"Cal_9mm_Ammobox"
 	],
 	"InitialDamage": 0,
 	"RandomDamage": 0,

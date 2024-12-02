@@ -1,6 +1,12 @@
 {
 	"FixedItems": [
-		"Chainsaw"
+		"Chainsaw",
+		"Weapon_SCAR_L",
+		"WeaponSights_RedDot_CA401B",
+		"WeaponSuppressor_MK18",
+		"Magazine_M16",
+		"Magazine_M16",
+		"Magazine_M16"
 	],
 	"InitialDamage": 0,
 	"RandomDamage": 0,
